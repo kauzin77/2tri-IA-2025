@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Como podemos evitar que a automoção cause desemprego em massa?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Investir em cursos de requalificação para trabalhadores.",
+                afirmacao: "Isso prepara as pessoas para novas funções que exigem habilidades diferentes, especialmente nas áreas de tecnologia e serviços humanos. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Reduzir a jornada de trabalho sem reduzir salários.",
+                afirmacao: "Com menos horas de trabalho por pessoa, mais pessoas podem ser empregadas, distribuindo melhor as oportunidades de trabalho."
             }
         ]
     },
