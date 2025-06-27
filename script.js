@@ -45,28 +45,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Qual é a melhor forma de preparar as novas gerações para um futuro com robôs?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Reformar o currículo escolar com foco em habilidades digitais e pensamento crítico.",
+                afirmacao: "Assim, os jovens crescem preparados para funções que não serão facilmente substituídas por máquinas."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Estimular o ensino de profissões criativas e sociais.",
+                afirmacao: "Essas áreas, como artes, psicologia ou pedagogia, são mais difíceis de automatizar e sempre precisarão de humanos."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "O que a sociedade pode fazer para lidar com as mudanças provocadas pelos robôs no mercado de trabalho? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Promover debates e políticas públicas sobre o futuro do trabalho.",
+                afirmacao: "A conscientização da população ajuda a construir soluções mais justas e participativas."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Incentivar o empreendedorismo digital e sustentável.",
+                afirmacao: "Estimula a criação de novos negócios adaptados às novas tecnologias e necessidades do mundo moderno. "
             }
         ]
     },
