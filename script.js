@@ -19,28 +19,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O que as empresas devem fazer para manter o equilíbrio entre eficiência e responsabilidade social?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Criar planos de transição para os funcionários afetados pela automoção.",
+                afirmacao: "Isso mostra compromisso com os trabalhadores e reduz o impacto negativo da substituição por robôs."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Reservar parte dos lucros gerados pela automoção para programas sociais.",
+                afirmacao: "Ao compartilhar os ganhos, a empresa contribui com a sociedade e fortalece sua imagem pública.."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Como os governos podem lidar com a desigualdade gerada pela automação?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Implementar a renda básica universal (RBU).",
+                afirmacao: "Garante uma renda mínima para todos, mesmo que não estejam empregados, evitando pobreza extrema."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Criar impostos específicos sobre o uso de robôs em empresas.",
+                afirmacao: "Esse imposto pode financiar programas sociais e educacionais, equilibrando os efeitos da automação."
             }
         ]
     },
